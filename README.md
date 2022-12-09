@@ -1,5 +1,5 @@
 # qb-highvalueshop
-* This was made to work for Jims-shop but I do not have his shop downloaded so it needs to be tested
+* This was made to work for Jims-shop but I do not have his shop downloaded needs tested
 
 # Dependencies
 * [qbcore](https://github.com/qbcore-framework)
