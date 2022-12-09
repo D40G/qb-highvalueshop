@@ -17,7 +17,7 @@
 * [Image](https://imgur.com/y0zMuZp)
 
 # Jimathy
-* [Jimathy666: His discord](https://discord.gg/jixelpatterns)
+* Jimathy666: [His discord](https://discord.gg/jixelpatterns)
 
 # Support
 * Join my [discord](https://discord.gg/dvBfdbc66B) for support!
