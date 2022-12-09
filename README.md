@@ -10,7 +10,7 @@
 * Add this ``` qb-menu:HighValue ``` to your ped event inside qb-target\init.lua
 
 # Need testing
-* Need someone with Jim-shops to make a shop and test this. I don't use Jims shop
+* Need someone with Jim-shops to make a shop and test this. I don't use Jims shop change the event inside client\cl_main.lua to the event of your 2 stores
 
 # Preview
 * [Image](https://imgur.com/y0zMuZp)
