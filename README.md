@@ -15,7 +15,7 @@
 # Preview
 * [Image](https://imgur.com/y0zMuZp)
 
-# Credits
+# Jimathy
 * [Jimathy666: His discord](https://discord.gg/jixelpatterns)
 
 # Support
