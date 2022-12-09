@@ -1,7 +1,7 @@
 fx_version 'cerulean'
 game 'gta5'
 
-description 'A script'
+description 'A script for a friend'
 version '1.0.0'
 
 client_scripts {
@@ -10,8 +10,4 @@ client_scripts {
 
 shared_scripts {
     'shared/Config.lua'
-}
-
-server_scripts {
-    'server/sv_main.lua',
 }
