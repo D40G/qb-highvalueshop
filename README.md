@@ -9,6 +9,9 @@
 * Drag and Drop!
 * Add this ``` qb-menu:HighValue ``` to your ped event inside qb-target\init.lua
 
+# Need testing
+* Need someone with Jim-shops to make a shop and test this. I don't use Jims shop
+
 # Preview
 * [Image](https://imgur.com/y0zMuZp)
 
